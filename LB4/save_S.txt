@@ -1,0 +1,18 @@
+ STUDENT|     Reger|   Philips|    Patato|      PRIT|    21|
+
+ STUDENT|     Reger|   Philips|    Patato|      PRIT|    21|
+
+ STUDENT|     Reger|   Philips|    Patato|      PRIT|    21|
+
+ STUDENT|     Reger|   Philips|    Patato|      PRIT|    21|
+
+ STUDENT|    Oliver| Subaretti|  Fashamin|  Designer|    32|
+
+ STUDENT|     Simon|  Werenger|    Katato|   SPINTEH|    42|
+
+ STUDENT|     Simon|  Werenger|    Katato|   SPINTEH|    42|
+
+ STUDENT|     Simon|  Werenger|    Katato|   SPINTEH|    42|
+
+ STUDENT|     Simon|  Werenger|    Katato|   SPINTEH|    42|
+

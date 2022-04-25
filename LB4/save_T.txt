@@ -1,0 +1,16 @@
+ TEACHER|     Masha|    Typova|    Gatato|      PRIT SPINTEH|    DiffUr|
+
+ TEACHER|     Masha|    Typova|    Gatato|      PRIT SPINTEH|    DiffUr|
+
+ TEACHER|     Masha|    Typova|    Gatato|      PRIT SPINTEH|    DiffUr|
+
+ TEACHER|     Masha|    Typova|    Gatato|      PRIT SPINTEH|    DiffUr|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|      PRIT SPINTEH|       OOP|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|      PRIT SPINTEH|       OOP|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|      PRIT SPINTEH|       OOP|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|      PRIT SPINTEH|       OOP|
+

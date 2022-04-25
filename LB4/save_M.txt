@@ -1,0 +1,36 @@
+ TEACHER|     Masha|    Typova|    Gatato|
+
+ TEACHER|     Masha|    Typova|    Gatato|
+
+ TEACHER|     Masha|    Typova|    Gatato|
+
+ TEACHER|     Masha|    Typova|    Gatato|
+
+ STUDENT|    Oliver| Subaretti|  Fashamin|
+
+ STUDENT|     Reger|   Philips|    Patato|
+
+ STUDENT|     Reger|   Philips|    Patato|
+
+ STUDENT|     Reger|   Philips|    Patato|
+
+ STUDENT|     Reger|   Philips|    Patato|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|
+
+ TEACHER|      Rina|   Pavlova|    Ratato|
+
+     MAN|   SEliver|  Lagrando|   ElPahio|
+
+ STUDENT|     Simon|  Werenger|    Katato|
+
+ STUDENT|     Simon|  Werenger|    Katato|
+
+ STUDENT|     Simon|  Werenger|    Katato|
+
+ STUDENT|     Simon|  Werenger|    Katato|
+
